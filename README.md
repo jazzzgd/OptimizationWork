@@ -1,2 +1,1 @@
-# OptimizationWork
-Optimization game in code
+Optimization game from code(Not from Unity)
